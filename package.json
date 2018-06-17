@@ -6,7 +6,6 @@
   "author": "Annika <liebste.anni@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "start": "webpack && node server",
     "dev": "node server & webpack --watch",
     "test": "jest --watchAll --noStackTrace"
   },
