@@ -12,6 +12,6 @@ yarn
 yarn dev
 ```
 
-Go to [http://localhost:3000] and see the page. Any change to the server will cause a restart and any change to client code will rebuild `bundle.js`.
+Go to [http://localhost:3000](http://localhost:3000) and see the page. Any change to the server will cause a restart and any change to client code will rebuild `bundle.js`.
 
 `BOOM`
